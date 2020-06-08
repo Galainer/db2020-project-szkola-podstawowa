@@ -1,0 +1,12 @@
+1. Wypisanie uczniów adanej klasy
+2. Znalezienie rodziców ucznia.
+3. Wypisanie ocen danego ucznia.
+4. Wypisanie zajęć ucznia/nauczyciela
+5. Informacja na temat zajęć.(zkim/jaki przedmiot godzina/koniec)
+6. Dodanie oceny.
+7. Poprawa oceny(update starej)
+8. Admin(update roku/ informacji danej osoby)
+9. Wypisanie nauczycieli którzy prowadzą dany przedmiot
+
+ 
+ 
